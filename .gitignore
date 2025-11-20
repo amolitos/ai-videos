@@ -1,0 +1,18 @@
+/node_modules
+
+.env
+.env.testing
+.env.local
+.DS_Store
+
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# ------------------------------------
+# REMOTION (packages/remotion-engine)
+# ------------------------------------
+/packages/remotion-engine/dist/
+/packages/remotion-engine/out/
+/packages/remotion-engine/remotion
+/packages/remotion-engine/node_modules

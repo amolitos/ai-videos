@@ -1,0 +1,24 @@
+{
+  "name": "@ai-videos/remotion-engine",
+  "version": "1.0.0",
+  "description": "Componentes de Remotion compartidos",
+  "main": "render.ts",
+  "scripts": {
+    "start": "remotion studio",
+    "render": "remotion render"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.376",
+    "@remotion/google-fonts": "4.0.376",
+    "@remotion/transitions": "4.0.376",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "4.0.376"
+  },
+  "devDependencies": {
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0"
+  }
+}
